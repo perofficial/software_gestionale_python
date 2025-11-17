@@ -1,6 +1,6 @@
 # 🛒 BioMarket Management System
 
-Sistema gestionale per la bottega BioMarket s.a.s. situata in Via Tan 6.
+Sistema gestionale per una bottega BioMarket.
 
 ## 📋 Obiettivo del Progetto
 
