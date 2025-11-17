@@ -1,0 +1,10 @@
+# BioMarket Management System - Requirements
+# Python 3.7+
+
+# No external dependencies required
+# The application uses only Python standard library modules:
+# - csv (for data storage)
+# - os (for file operations)
+# - sys (for system operations)
+# - datetime (for timestamps)
+# - logging (for logging)
