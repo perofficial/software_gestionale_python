@@ -226,7 +226,7 @@ Per contribuire al progetto:
 
 ## 📄 Licenza
 
-Questo progetto è sviluppato per BioMarket s.a.s.
+Questo progetto è sviluppato per fini didattici.
 
 ## 📧 Contatti
 
