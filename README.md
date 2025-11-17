@@ -59,10 +59,10 @@ biomarket-management/
 
 ```bash
 # Clona la repository
-git clone https://github.com/tuo-username/biomarket-management.git
+git clone https://github.com/perofficial/software_gestionale_python.git
 
 # Entra nella directory del progetto
-cd biomarket-management
+cd software_gestionale_python
 ```
 
 ### Passo 2: Creare un Ambiente Virtuale
